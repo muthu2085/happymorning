@@ -928,6 +928,12 @@ input[type=color] {
 .p-inherit {
   position: inherit;
 }
+@media all and (max-width:768px) {
+  .mobtext {
+    font-size:16px!important;
+  }
+}
+
 
 /*---------------------------------
     1.3 Default Spacing
