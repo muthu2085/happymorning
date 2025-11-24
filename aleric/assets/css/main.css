@@ -9931,17 +9931,17 @@ body.tp-magic-cursor #magic-cursor {
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-hero-2-title {
-    font-size: 87px;
+    font-size: 72px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 574.98px) {
   .tp-hero-2-title {
-    font-size: 80px;
+    font-size: 64px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 574.98px) {
   .tp-hero-2-title {
-    font-size: 64px;
+    font-size: 44px;
   }
 }
 @media (max-width: 574.98px) {
@@ -13399,6 +13399,7 @@ body.tp-magic-cursor #magic-cursor {
   transform: scale(1.04, 1.04);
   transform-origin: 50% 50%;
 }
+/*
 #service-bg-img .service-bg::after {
   position: absolute;
   content: "";
@@ -13408,6 +13409,7 @@ body.tp-magic-cursor #magic-cursor {
   height: 100%;
   background-color: rgba(32, 40, 45, 0.5);
 }
+  */
 #service-bg-img.service-img-1 .service-img-1 {
   visibility: visible;
   opacity: 1;
