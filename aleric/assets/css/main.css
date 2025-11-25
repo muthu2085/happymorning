@@ -6827,12 +6827,12 @@ body.tp-magic-cursor #magic-cursor {
 .tp-main-menu nav > ul > li {
   list-style: none;
   display: inline-block;
-  margin: 0 25px;
+  margin: 0 21px;
   position: relative;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 574.98px) {
   .tp-main-menu nav > ul > li {
-    margin: 0 18px;
+    margin: 0 12px;
   }
 }
 .tp-main-menu nav > ul > li > a {
