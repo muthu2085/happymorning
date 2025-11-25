@@ -11614,6 +11614,7 @@ body.tp-magic-cursor #magic-cursor {
   padding: 45px 40px 25px 40px;
   border: 1px solid transparent;
   transition: all 0.4s ease;
+  height:380px;
 }
 .tp-about-process-item:hover {
   border-color: var(--tp-border-1);
